@@ -1,0 +1,1001 @@
+Product,Inventory,Order,Location,Popularity
+Product1,28,"Product590, Product866, Product276, Product682, Product223, Product111, Product999, Product202, Product910",50,0.21466083333783947
+Product2,26,"Product18, Product855, Product577, Product34, Product82, Product352",14,0.3659279830050848
+Product3,78,"Product577, Product600, Product630, Product468",26,0.39501937972994294
+Product4,15,"Product887, Product643, Product690, Product324, Product597, Product937",38,0.790017279493047
+Product5,85,"Product517, Product252, Product938, Product538, Product599, Product733",8,0.06416810173405418
+Product6,2,"Product696, Product555, Product301, Product627, Product61, Product503",23,0.9024095698171212
+Product7,84,"Product523, Product319, Product423, Product515, Product326, Product995, Product137",42,0.6943710859506643
+Product8,58,"Product797, Product491, Product564",11,0.1433888016451198
+Product9,10,Product994,46,0.5101472907377852
+Product10,94,"Product932, Product324, Product91, Product955, Product971, Product5, Product864, Product403, Product87",37,0.16348537779797534
+Product11,98,Product509,6,0.7736526209949003
+Product12,18,"Product208, Product235, Product686, Product349, Product72, Product310",40,0.0797544584943527
+Product13,1,"Product644, Product4, Product191, Product490, Product394",21,0.048010747977025536
+Product14,70,Product971,40,0.6934694462831927
+Product15,35,"Product722, Product319, Product689, Product842, Product112, Product391, Product352",30,0.2798487020218762
+Product16,16,Product666,19,0.09434164792502209
+Product17,2,"Product825, Product407, Product298, Product257",21,0.5769784806843832
+Product18,24,"Product903, Product597, Product670, Product785, Product186, Product927, Product803, Product253",45,0.011731519160276371
+Product19,18,"Product670, Product224, Product84, Product115, Product320, Product159",10,0.8767250098317906
+Product20,29,"Product713, Product275, Product540, Product624, Product381, Product117, Product175, Product334",19,0.5922938723294924
+Product21,21,"Product570, Product916, Product441, Product855, Product209, Product92, Product930",23,0.9037228698320292
+Product22,66,"Product894, Product847, Product256, Product698, Product757",36,0.47677907635932737
+Product23,42,"Product911, Product160, Product7, Product942, Product856, Product627",16,0.8080049210958292
+Product24,79,"Product221, Product5, Product711",45,0.9354649744697099
+Product25,59,"Product944, Product474",32,0.851769142539997
+Product26,43,"Product908, Product543, Product325, Product120, Product550, Product181",1,0.4175943172111479
+Product27,11,"Product706, Product210, Product990, Product103, Product190, Product892, Product156, Product696, Product958",18,0.9680604535696749
+Product28,26,"Product713, Product275, Product540, Product624, Product381, Product117, Product175, Product334",49,0.819593723222768
+Product29,77,"Product4, Product877, Product164, Product646",49,0.6214877205048052
+Product30,43,Product75,26,0.5091405719784031
+Product31,35,"Product866, Product692, Product199, Product296, Product236, Product4",20,0.47801643635522373
+Product32,25,Product606,36,0.6443463308205368
+Product33,12,"Product121, Product433, Product39, Product628, Product66, Product489, Product176, Product996",33,0.7110422177886259
+Product34,28,"Product598, Product669, Product698, Product194, Product921, Product944, Product384",14,0.4183192920672123
+Product35,49,"Product498, Product471, Product559",31,0.6812761251710804
+Product36,3,"Product454, Product769",14,0.4134465596029151
+Product37,78,"Product751, Product897",12,0.05996257745864553
+Product38,48,"Product621, Product363, Product993, Product393, Product577, Product7",18,0.8084653066241054
+Product39,80,"Product656, Product689, Product475, Product795, Product880, Product308, Product631, Product574",45,0.9683613474610864
+Product40,58,"Product66, Product603, Product802",9,0.37123242882464713
+Product41,5,"Product937, Product159, Product713, Product779, Product178, Product517",18,0.40751746857650284
+Product42,79,"Product694, Product87, Product466, Product543, Product15",12,0.9321061623113711
+Product43,70,"Product338, Product4, Product183, Product916, Product414, Product490",22,0.39519695166780955
+Product44,50,"Product913, Product556, Product49, Product848, Product277, Product955",46,0.9863793362721438
+Product45,18,Product866,37,0.9607177372829465
+Product46,91,"Product93, Product222",19,0.35736091847367324
+Product47,79,"Product588, Product107",3,0.7267666285910571
+Product48,42,Product139,20,0.5151547669831685
+Product49,77,"Product598, Product669, Product698, Product194, Product921, Product944, Product384",11,0.09258053311014902
+Product50,63,"Product303, Product651, Product419",44,0.8536662378260864
+Product51,64,"Product120, Product509",25,0.00023320751500932602
+Product52,48,"Product387, Product420, Product582, Product595",48,0.18883279206192283
+Product53,1,"Product836, Product155, Product415, Product724, Product588, Product981, Product250, Product693, Product624",16,0.07052199370088985
+Product54,1,"Product349, Product197, Product456",2,0.023242390425261994
+Product55,63,"Product713, Product275, Product540, Product624, Product381, Product117, Product175, Product334",11,0.9352295607617522
+Product56,61,"Product644, Product903, Product490, Product716, Product63, Product142, Product898, Product902, Product700",44,0.5343834483304515
+Product57,4,"Product601, Product951, Product421, Product629",32,0.4973619104410002
+Product58,59,"Product523, Product319, Product423, Product515, Product326, Product995, Product137",50,0.288716157847127
+Product59,30,"Product604, Product50, Product623, Product240, Product424, Product557, Product465, Product707, Product950",48,0.5449949017154725
+Product60,94,"Product183, Product238, Product274",33,0.9228262394338942
+Product61,9,"Product120, Product396",5,0.33360928800342704
+Product62,33,"Product304, Product589",43,0.11460744062550465
+Product63,26,"Product607, Product386, Product862",26,0.48764711174560715
+Product64,79,"Product144, Product88, Product768, Product513",2,0.34173481388120874
+Product65,26,"Product550, Product338, Product460",25,0.7609273586575979
+Product66,92,"Product409, Product325, Product560, Product848, Product919, Product504, Product918, Product354",15,0.3847457576394344
+Product67,50,"Product968, Product360, Product708, Product629, Product875, Product23, Product906, Product678",49,0.7466219757102538
+Product68,6,"Product16, Product478, Product645, Product12, Product405, Product483, Product38, Product640, Product907",36,0.7325915730710159
+Product69,41,"Product339, Product595, Product637, Product688, Product555, Product376, Product655, Product103, Product630",41,0.1438495554594924
+Product70,99,Product277,15,0.6087462484259765
+Product71,26,Product404,8,0.7388197004903838
+Product72,3,"Product417, Product358, Product319, Product476, Product803, Product600, Product109, Product240, Product418",38,0.04716138142315318
+Product73,40,"Product984, Product740, Product711",32,0.8552780293483618
+Product74,89,"Product484, Product162, Product966, Product356, Product948, Product354, Product923, Product710",1,0.03580177708994381
+Product75,75,"Product769, Product596, Product10, Product660, Product73, Product881, Product206, Product689",30,0.12631932169157767
+Product76,44,"Product322, Product867, Product431, Product988, Product962, Product300, Product184, Product17",24,0.20518521382390187
+Product77,42,Product626,42,0.37662305957048814
+Product78,3,"Product73, Product16, Product437, Product449, Product464, Product510, Product959, Product281",18,0.10151465352043809
+Product79,16,"Product513, Product666",49,0.8248425340175408
+Product80,59,Product807,35,0.24317934500198823
+Product81,42,"Product204, Product387, Product218, Product207, Product321",14,0.9002737095058323
+Product82,81,"Product73, Product16, Product437, Product449, Product464, Product510, Product959, Product281",3,0.6115936888759386
+Product83,47,"Product813, Product970, Product564, Product624, Product797, Product188, Product94, Product786",18,0.4882146653029277
+Product84,88,"Product589, Product488",37,0.5456374117985219
+Product85,23,"Product977, Product349, Product813",2,0.6875061527844485
+Product86,14,"Product4, Product877, Product164, Product646",6,0.8741855510342289
+Product87,82,"Product769, Product596, Product10, Product660, Product73, Product881, Product206, Product689",10,0.7315100956839686
+Product88,51,"Product600, Product545, Product388",7,0.7262009477838748
+Product89,27,"Product120, Product509",20,0.46606621987841623
+Product90,19,"Product504, Product154, Product685, Product226, Product408, Product318, Product74, Product562",37,0.8668682755771888
+Product91,46,"Product561, Product380, Product740, Product598",6,0.045761174402873195
+Product92,68,"Product783, Product390, Product658, Product723, Product500, Product109, Product917, Product34",10,0.7741167300253479
+Product93,37,"Product836, Product155, Product415, Product724, Product588, Product981, Product250, Product693, Product624",11,0.8923069868244873
+Product94,95,"Product531, Product946, Product358",24,0.19899211888241375
+Product95,52,"Product423, Product157, Product553, Product516, Product139, Product791, Product14, Product371",7,0.22978366064824063
+Product96,80,"Product762, Product716, Product312",5,0.32828705134052183
+Product97,84,"Product173, Product238, Product870",2,0.3977620567705872
+Product98,48,"Product304, Product589",20,0.6221524451724046
+Product99,64,"Product842, Product718, Product169, Product840, Product309, Product590",42,0.8666418315696811
+Product100,62,"Product907, Product678, Product333, Product657, Product931, Product998, Product805, Product278, Product224",13,0.8657828705878855
+Product101,96,Product788,17,0.013031064801660164
+Product102,52,"Product282, Product396, Product198, Product750, Product3, Product757, Product967",17,0.9176804251854712
+Product103,97,"Product256, Product342, Product253, Product645, Product267, Product289, Product271",3,0.6388335679706477
+Product104,4,"Product578, Product931, Product233, Product800, Product306, Product468, Product341, Product58, Product207",42,8.659791937193351e-05
+Product105,48,Product178,16,0.10814096055293576
+Product106,40,"Product403, Product929, Product515, Product209, Product888, Product374, Product342",2,0.46367778060602016
+Product107,77,"Product656, Product689, Product475, Product795, Product880, Product308, Product631, Product574",47,0.26130905897196965
+Product108,8,"Product425, Product508",38,0.2571023335509607
+Product109,24,"Product825, Product407, Product298, Product257",30,0.2938517824015535
+Product110,77,"Product251, Product944, Product206, Product692, Product198, Product156, Product479",48,0.7708799894339458
+Product111,90,"Product352, Product414",30,0.43064873561633155
+Product112,97,Product960,17,0.19605302166983862
+Product113,19,"Product889, Product405, Product944, Product135, Product831, Product916, Product774, Product28",4,0.3003204419084524
+Product114,76,"Product246, Product235, Product27, Product427, Product175",48,0.3037909314083995
+Product115,64,"Product836, Product155, Product415, Product724, Product588, Product981, Product250, Product693, Product624",25,0.5505685540913717
+Product116,6,"Product582, Product56, Product82, Product98",16,0.06302797958288187
+Product117,68,"Product248, Product822, Product419, Product495, Product925, Product642, Product176, Product479, Product214",11,0.6681114024689757
+Product118,52,Product2,41,0.2669974188019101
+Product119,64,"Product291, Product873, Product811, Product520",47,0.6072869804790149
+Product120,93,"Product96, Product226, Product472",4,0.40374671480887225
+Product121,97,"Product381, Product251, Product656, Product928, Product309",50,0.1535107434091556
+Product122,8,"Product794, Product368, Product502",7,0.04945589097467773
+Product123,22,"Product417, Product971, Product877, Product306, Product534, Product669, Product298",2,0.2778025822823945
+Product124,33,"Product160, Product1000, Product299, Product631, Product355",39,0.6932314921924332
+Product125,42,"Product610, Product120, Product455, Product397, Product829, Product929, Product35",11,0.6667595643981722
+Product126,82,"Product656, Product143, Product240, Product575, Product416, Product408, Product421, Product818",17,0.2629620885936107
+Product127,20,"Product618, Product776, Product807",25,0.5962430674568366
+Product128,15,"Product633, Product929, Product152, Product318, Product338",13,0.83589453158354
+Product129,64,"Product599, Product128, Product18, Product709, Product576, Product872, Product238",33,0.9289277551314903
+Product130,16,"Product644, Product903, Product490, Product716, Product63, Product142, Product898, Product902, Product700",24,0.8482933952714774
+Product131,22,"Product940, Product331",2,0.5764254530915853
+Product132,98,"Product197, Product590, Product910, Product309, Product836",13,0.48527582602704544
+Product133,34,"Product786, Product928, Product986",3,0.6504670689622088
+Product134,22,"Product513, Product192, Product42",39,0.8347825219390348
+Product135,83,"Product964, Product213, Product327, Product458, Product837, Product379, Product391, Product267, Product607",29,0.27095912969387814
+Product136,11,"Product109, Product194, Product835, Product337, Product204",38,0.5557593694900478
+Product137,24,"Product519, Product689, Product576, Product361",18,0.21281125564103687
+Product138,45,"Product349, Product197, Product456",14,0.1218324453643218
+Product139,46,Product353,43,0.8839326358489992
+Product140,73,"Product484, Product162, Product966, Product356, Product948, Product354, Product923, Product710",3,0.09226540923332271
+Product141,54,"Product338, Product450, Product274, Product641, Product954, Product492, Product844",43,0.4178369114332693
+Product142,56,"Product93, Product222",28,0.8272546569510325
+Product143,68,"Product246, Product235, Product27, Product427, Product175",2,0.7008781328775255
+Product144,8,"Product335, Product661, Product654, Product855, Product281",13,0.010450567580279402
+Product145,89,"Product604, Product50, Product623, Product240, Product424, Product557, Product465, Product707, Product950",13,0.1909214019184864
+Product146,15,"Product429, Product646, Product576, Product91, Product118, Product890, Product219, Product156, Product652",19,0.375020494958054
+Product147,8,Product723,31,0.4101525506091661
+Product148,88,"Product944, Product513, Product405, Product5, Product251, Product670, Product808, Product900",41,0.47219972330297544
+Product149,52,"Product509, Product406, Product737, Product663, Product569, Product866, Product458, Product120, Product5",44,0.9567257746461681
+Product150,70,"Product605, Product134, Product731, Product44, Product929, Product488, Product195",26,0.6967224751754957
+Product151,22,"Product643, Product304, Product206, Product573, Product314, Product54",21,0.017875262843364492
+Product152,83,"Product491, Product969, Product569",40,0.5368630303056966
+Product153,75,"Product330, Product9, Product694, Product601, Product392, Product173, Product244",19,0.9276383347035412
+Product154,26,"Product113, Product605, Product194, Product647",45,0.24374796026818446
+Product155,97,"Product671, Product651, Product461, Product649, Product305",31,0.6840525430722162
+Product156,24,"Product802, Product106, Product860, Product789, Product951",10,0.5499329638788146
+Product157,31,"Product429, Product646, Product576, Product91, Product118, Product890, Product219, Product156, Product652",37,0.7372133275391481
+Product158,73,"Product446, Product606, Product536, Product626, Product68, Product766, Product805, Product890, Product82",20,0.8020014520567952
+Product159,15,"Product853, Product452, Product908, Product842",33,0.21552397904913756
+Product160,2,Product82,16,0.06422770008708056
+Product161,23,"Product600, Product545, Product388",47,0.9970932860691495
+Product162,18,"Product865, Product9",36,0.442651633334359
+Product163,99,"Product948, Product788, Product104, Product210",46,0.5723453637432468
+Product164,43,Product212,28,0.3341155748809883
+Product165,15,"Product406, Product556, Product448, Product203, Product560, Product466, Product3, Product59",49,0.6488419322860922
+Product166,88,Product443,49,0.12046049776194812
+Product167,16,"Product214, Product934, Product1000, Product600",18,0.7748313513981085
+Product168,65,"Product97, Product861, Product590, Product412, Product382, Product172",2,0.8399104766165167
+Product169,94,"Product114, Product470, Product197, Product589, Product156, Product901, Product192",12,0.3786851005100563
+Product170,1,"Product927, Product176, Product859",28,0.1593692648727688
+Product171,64,"Product551, Product22, Product573, Product423, Product771, Product645",44,0.43576164950592755
+Product172,35,"Product141, Product801, Product28, Product308, Product830, Product691",43,0.6106785515004499
+Product173,48,"Product364, Product816, Product401, Product29, Product692, Product303, Product673, Product611, Product927",27,0.25832773888814164
+Product174,35,"Product876, Product451, Product880, Product666, Product969, Product79, Product252",7,0.5979987554442353
+Product175,23,"Product747, Product165",24,0.8696925933374068
+Product176,15,"Product746, Product608, Product753, Product213, Product140, Product611, Product686, Product362",49,0.5491249418118466
+Product177,78,Product404,17,0.6838875640695858
+Product178,8,"Product551, Product22, Product573, Product423, Product771, Product645",10,0.5149364711294703
+Product179,21,"Product651, Product370, Product604, Product275, Product938, Product640",49,0.671327894216068
+Product180,87,"Product670, Product224, Product84, Product115, Product320, Product159",4,0.014894191863702222
+Product181,63,"Product112, Product443, Product932, Product396",10,0.6304460768045842
+Product182,39,"Product498, Product471, Product559",1,0.5357689622601928
+Product183,97,"Product330, Product437, Product688, Product103, Product408, Product481",43,0.6031187682433572
+Product184,16,Product266,7,0.8178337743828287
+Product185,27,"Product810, Product538, Product707",28,0.2041525377983342
+Product186,49,"Product884, Product332, Product489, Product344, Product608, Product19, Product766",28,0.7981114797083998
+Product187,83,"Product898, Product716, Product143, Product38, Product49, Product67, Product681",45,0.2506707908887599
+Product188,35,"Product590, Product456, Product399, Product891, Product409, Product174, Product862, Product841, Product703",49,0.5764639884219733
+Product189,26,"Product144, Product88, Product768, Product513",26,0.09309163355287442
+Product190,18,"Product11, Product16, Product310, Product361, Product75, Product49, Product698",4,0.20254068557578253
+Product191,9,Product734,45,0.2651965641419334
+Product192,19,"Product107, Product929, Product565, Product685",17,0.5370867835390774
+Product193,11,"Product748, Product567, Product685",15,0.784005166346654
+Product194,83,"Product202, Product860, Product979, Product928, Product711",24,0.6460139051913346
+Product195,48,"Product172, Product632, Product953, Product8, Product83, Product397, Product694",35,0.6996703574490544
+Product196,65,Product798,24,0.8221502943219675
+Product197,1,"Product633, Product929, Product152, Product318, Product338",16,0.7408940926592474
+Product198,46,"Product143, Product527, Product33, Product140, Product37, Product276",4,0.6751832083269225
+Product199,83,"Product780, Product255, Product826",7,0.648985815451314
+Product200,78,"Product349, Product895",34,0.47496409937747675
+Product201,4,"Product250, Product440, Product786, Product610",23,0.058054666068390715
+Product202,18,"Product754, Product367, Product849, Product539, Product819",33,0.4277166321726851
+Product203,69,"Product248, Product575",37,0.1089459308425137
+Product204,94,"Product898, Product716, Product143, Product38, Product49, Product67, Product681",36,0.63413091140856
+Product205,23,"Product659, Product700, Product205, Product481, Product748, Product767, Product307, Product171, Product68",7,0.6339720716381517
+Product206,21,"Product533, Product627",12,0.024107583263577426
+Product207,24,"Product307, Product787, Product469, Product433, Product216",20,0.5843445290390744
+Product208,42,"Product680, Product945, Product183, Product492, Product972, Product400, Product497, Product294",20,0.975224154258819
+Product209,77,"Product340, Product320",5,0.47102421792824756
+Product210,75,Product166,48,0.5028193728674845
+Product211,80,"Product551, Product22, Product573, Product423, Product771, Product645",37,0.8016471466587525
+Product212,30,"Product598, Product669, Product698, Product194, Product921, Product944, Product384",23,0.008477746872916025
+Product213,74,Product75,14,0.9697933073351857
+Product214,13,Product138,5,0.791660335823136
+Product215,21,"Product102, Product238, Product175, Product637, Product234",16,0.07644010720852401
+Product216,30,Product807,39,0.622623654281135
+Product217,69,"Product769, Product596, Product10, Product660, Product73, Product881, Product206, Product689",43,0.7450551592966163
+Product218,3,"Product998, Product359, Product555",7,0.903911708322903
+Product219,14,"Product503, Product532, Product383, Product609, Product409",13,0.36353994274748924
+Product220,47,"Product643, Product945",9,0.635307502574526
+Product221,83,"Product50, Product622",48,0.3396819673333076
+Product222,51,Product912,20,0.3967457084160554
+Product223,8,"Product995, Product848, Product684, Product887",23,0.9967577885546738
+Product224,8,"Product454, Product769",38,0.45954915426691034
+Product225,38,Product139,4,0.3526115030417274
+Product226,99,"Product38, Product307, Product506",8,0.5143326766410972
+Product227,82,Product496,5,0.6488121156777332
+Product228,88,"Product675, Product660, Product149, Product191, Product232, Product18, Product715, Product961",6,0.8636088754180672
+Product229,50,"Product256, Product223, Product77, Product726, Product607, Product974, Product122, Product383, Product640",50,0.7004674997496065
+Product230,14,"Product645, Product150, Product567, Product257, Product461, Product696, Product778, Product183, Product892",38,0.8728315473843041
+Product231,46,Product913,31,0.8002974054145735
+Product232,49,"Product403, Product929, Product515, Product209, Product888, Product374, Product342",29,0.7297094138964548
+Product233,96,"Product740, Product488, Product62, Product23, Product438, Product928, Product782, Product903",11,0.3156769939303333
+Product234,1,"Product825, Product407, Product298, Product257",24,0.6567539730885646
+Product235,92,"Product249, Product979, Product708, Product186, Product342",13,0.8908316729694954
+Product236,89,Product322,21,0.44631398192661365
+Product237,27,Product913,12,0.0709074103901286
+Product238,93,Product435,23,0.993958546837311
+Product239,98,"Product692, Product795, Product606",30,0.9468304215065838
+Product240,45,"Product754, Product367, Product849, Product539, Product819",16,0.6945809224108754
+Product241,15,"Product656, Product689, Product475, Product795, Product880, Product308, Product631, Product574",7,0.8757680671620603
+Product242,56,"Product221, Product711, Product847, Product293, Product188, Product880, Product103, Product871",13,0.9541423283988841
+Product243,12,"Product381, Product251, Product656, Product928, Product309",12,0.9192638443606135
+Product244,37,"Product675, Product363, Product125, Product346, Product786, Product764, Product404, Product569, Product521",18,0.5417957669234007
+Product245,78,"Product325, Product389, Product948, Product846, Product337",23,0.02502973607131631
+Product246,91,"Product352, Product967, Product619, Product935, Product284",28,0.6573702453199853
+Product247,83,"Product645, Product150, Product567, Product257, Product461, Product696, Product778, Product183, Product892",41,0.8057802664655183
+Product248,69,"Product577, Product773, Product907, Product533",7,0.7164141851151414
+Product249,8,"Product221, Product711, Product847, Product293, Product188, Product880, Product103, Product871",40,0.3332058051962409
+Product250,46,"Product944, Product474",19,0.7438660511821095
+Product251,83,"Product176, Product534, Product531",47,0.24740558870146645
+Product252,91,"Product99, Product60, Product307, Product51, Product360, Product697",34,0.004908128660613964
+Product253,3,"Product173, Product238, Product870",12,0.6983635148931461
+Product254,46,"Product815, Product801, Product543",31,0.4220627541605577
+Product255,36,"Product822, Product740, Product86, Product553, Product308, Product225, Product190",48,0.5435550030200934
+Product256,36,"Product73, Product16, Product437, Product449, Product464, Product510, Product959, Product281",41,0.7961016787929815
+Product257,58,"Product519, Product689, Product576, Product361",25,0.2634545783046415
+Product258,2,"Product908, Product543, Product325, Product120, Product550, Product181",49,0.1344376239070374
+Product259,72,Product104,44,0.551104749277049
+Product260,92,"Product598, Product669, Product698, Product194, Product921, Product944, Product384",35,0.6743825431842704
+Product261,5,"Product872, Product523, Product205",33,0.1635688368431638
+Product262,15,"Product461, Product81, Product534, Product758, Product670, Product248",27,0.11187073490497546
+Product263,63,"Product403, Product929, Product515, Product209, Product888, Product374, Product342",8,0.14191832765772816
+Product264,35,Product433,42,0.6938881196582164
+Product265,33,Product65,20,0.6962191138823925
+Product266,84,Product955,11,0.230522520666257
+Product267,0,"Product671, Product651, Product461, Product649, Product305",15,0.7631768915775338
+Product268,80,Product606,41,0.31537671679473334
+Product269,82,Product309,41,0.5388852098316274
+Product270,16,"Product351, Product601, Product580, Product92, Product500, Product587",2,0.45201787651486025
+Product271,68,"Product633, Product929, Product152, Product318, Product338",33,0.28202987537680535
+Product272,16,Product970,10,0.4864336653586837
+Product273,44,"Product942, Product754, Product46",42,0.5000785180305831
+Product274,37,Product666,28,0.491202945405263
+Product275,76,"Product73, Product16, Product437, Product449, Product464, Product510, Product959, Product281",1,0.21105760629591352
+Product276,59,"Product183, Product238, Product274",45,0.6994316359513605
+Product277,61,"Product159, Product227, Product727, Product809, Product973, Product609, Product40",14,0.23663909185820908
+Product278,41,"Product633, Product929, Product152, Product318, Product338",4,0.8931304466557852
+Product279,34,"Product588, Product107",46,0.47902512959429844
+Product280,11,"Product786, Product928, Product986",33,0.09152437806129676
+Product281,20,"Product340, Product320",50,0.2289753000347754
+Product282,96,"Product38, Product365, Product163, Product844, Product731, Product231, Product440",29,0.9684710575271985
+Product283,55,"Product404, Product691, Product527, Product315, Product766, Product712, Product355",9,0.7291950524825799
+Product284,88,Product322,31,0.9498729847098927
+Product285,49,"Product809, Product425, Product714, Product298, Product1",30,0.9198836577031738
+Product286,25,"Product728, Product612, Product587, Product397, Product629, Product256, Product285, Product702, Product949",17,0.40230426207068526
+Product287,30,"Product330, Product9, Product694, Product601, Product392, Product173, Product244",12,0.23166334816601974
+Product288,73,"Product871, Product550, Product444, Product572, Product690, Product903, Product791",16,0.7977293304803423
+Product289,47,"Product451, Product11, Product964, Product204, Product801",40,0.16915761611505342
+Product290,65,"Product810, Product538, Product707",47,0.046569978468378626
+Product291,74,"Product73, Product16, Product437, Product449, Product464, Product510, Product959, Product281",18,0.07327566980726519
+Product292,28,"Product259, Product171",12,0.7539779472611912
+Product293,37,"Product503, Product577, Product721, Product450, Product7, Product963",9,0.18895956718303086
+Product294,59,"Product159, Product227, Product727, Product809, Product973, Product609, Product40",49,0.5402257805453738
+Product295,83,"Product531, Product946, Product358",8,0.8762299422330516
+Product296,52,"Product303, Product651, Product419",11,0.26621272753146563
+Product297,63,"Product376, Product737, Product198",31,0.23996967918871415
+Product298,79,Product197,40,0.003230680486814852
+Product299,9,"Product198, Product680, Product79",21,0.05599956441029108
+Product300,32,"Product605, Product134, Product731, Product44, Product929, Product488, Product195",31,0.1904075661392186
+Product301,56,"Product197, Product697, Product931, Product420, Product599, Product46",18,0.17739921314376494
+Product302,60,Product734,16,0.8529336550952504
+Product303,85,"Product178, Product825, Product793",19,0.7797986895908811
+Product304,12,"Product513, Product666",4,0.12885879176310033
+Product305,24,"Product417, Product971, Product877, Product306, Product534, Product669, Product298",6,0.12540015851474617
+Product306,98,"Product351, Product601, Product580, Product92, Product500, Product587",18,0.5599194512154211
+Product307,41,Product19,40,0.7800434258932585
+Product308,32,"Product387, Product949, Product717, Product879, Product882, Product719, Product463",33,0.9638532887496267
+Product309,14,Product433,49,0.023042177456432444
+Product310,82,"Product728, Product929, Product414, Product48, Product520",36,0.7297410019625399
+Product311,44,"Product926, Product997, Product393, Product200",45,0.7580106376981446
+Product312,5,"Product807, Product430, Product526, Product950",7,0.4761353599963979
+Product313,87,"Product309, Product435, Product396",45,0.0740734675994228
+Product314,58,"Product554, Product999, Product752",36,0.22854471124247022
+Product315,32,"Product364, Product920, Product15, Product173, Product532, Product678, Product910, Product652, Product55",3,0.9830913172488176
+Product316,49,"Product245, Product878, Product152, Product520, Product851, Product266",16,0.6475387985952318
+Product317,51,"Product656, Product689, Product475, Product795, Product880, Product308, Product631, Product574",17,0.2896145058911249
+Product318,86,"Product921, Product592, Product910, Product393, Product773, Product396",43,0.7830090806541697
+Product319,0,"Product790, Product546",26,0.09894458486850133
+Product320,14,Product372,5,0.020854280416583215
+Product321,79,"Product554, Product999, Product752",29,0.21240151807694374
+Product322,74,"Product590, Product866, Product276, Product682, Product223, Product111, Product999, Product202, Product910",32,0.21415632222171754
+Product323,23,Product641,40,0.5531175942196174
+Product324,44,"Product809, Product425, Product714, Product298, Product1",28,0.5886158481127048
+Product325,99,"Product866, Product692, Product199, Product296, Product236, Product4",30,0.18533977886808428
+Product326,45,"Product452, Product142, Product611, Product497, Product501, Product983, Product24",36,0.3762491164211309
+Product327,20,"Product200, Product85, Product97, Product607, Product568, Product188, Product56, Product222, Product463",10,0.7018263010614013
+Product328,53,"Product352, Product414",30,0.09319923232148519
+Product329,2,"Product197, Product590, Product910, Product309, Product836",5,0.9496333531566366
+Product330,39,"Product611, Product434, Product82, Product745, Product572, Product290, Product3, Product364, Product639",32,0.22525981842629872
+Product331,33,"Product99, Product60, Product307, Product51, Product360, Product697",30,0.3934437809439141
+Product332,68,"Product267, Product520, Product910",38,0.8712368875171828
+Product333,43,"Product120, Product509",34,0.11550267819895521
+Product334,74,"Product311, Product567, Product494, Product3, Product333, Product345, Product740, Product193",50,0.7492780900993132
+Product335,93,Product371,29,0.9063825031205881
+Product336,76,"Product807, Product430, Product526, Product950",12,0.31305944230125105
+Product337,25,"Product968, Product997, Product857, Product112",40,0.6293902127266964
+Product338,73,"Product887, Product643, Product690, Product324, Product597, Product937",45,0.04086606783428537
+Product339,85,Product912,43,0.6291057037899642
+Product340,29,"Product525, Product537, Product511, Product922, Product375, Product627, Product991, Product916, Product305",21,0.28614388055286655
+Product341,76,"Product266, Product377",26,0.317773967946856
+Product342,34,"Product387, Product949, Product717, Product879, Product882, Product719, Product463",11,0.5519170890210171
+Product343,36,"Product918, Product397, Product396, Product4, Product79, Product891",35,0.5437783458571893
+Product344,35,"Product307, Product555, Product971, Product680, Product354, Product304",29,0.21929852033990338
+Product345,49,"Product291, Product873, Product811, Product520",13,0.9975102419360639
+Product346,74,"Product204, Product682, Product837, Product580, Product598, Product44, Product71, Product912, Product287",40,0.5863421133102196
+Product347,71,"Product484, Product162, Product966, Product356, Product948, Product354, Product923, Product710",47,0.1495373227498047
+Product348,32,"Product590, Product866, Product276, Product682, Product223, Product111, Product999, Product202, Product910",40,0.5359857538490685
+Product349,6,"Product610, Product120, Product455, Product397, Product829, Product929, Product35",7,0.15119031158056706
+Product350,96,Product903,41,0.6655028602429633
+Product351,82,Product407,39,0.49487879133698787
+Product352,27,"Product183, Product186, Product769",50,0.5515237134138672
+Product353,88,"Product2, Product290, Product810, Product431, Product77, Product401, Product954, Product936",33,0.2456494398721989
+Product354,90,"Product113, Product605, Product194, Product647",33,0.9391049378308713
+Product355,91,"Product648, Product400",1,0.7352400149054805
+Product356,69,"Product610, Product120, Product455, Product397, Product829, Product929, Product35",39,0.2745375316662444
+Product357,87,"Product144, Product88, Product768, Product513",11,0.8710858597978187
+Product358,82,"Product688, Product745, Product211, Product933",50,0.5771748085869864
+Product359,39,"Product254, Product346, Product23, Product397, Product476, Product384, Product299, Product424, Product517",15,0.2153521606442037
+Product360,25,Product994,38,0.528225745047185
+Product361,77,"Product986, Product797, Product513, Product696",9,0.732443686961821
+Product362,46,"Product352, Product414",6,0.6483094109324368
+Product363,89,"Product513, Product192, Product42",11,0.8086759097693941
+Product364,81,"Product243, Product68, Product738, Product234, Product973, Product329, Product337",43,0.07409468114642181
+Product365,22,"Product954, Product482, Product244, Product933, Product981, Product199",22,0.39985292312638454
+Product366,60,"Product582, Product986",22,0.41554751317277283
+Product367,87,"Product780, Product255, Product826",39,0.8813068720794565
+Product368,58,"Product962, Product389, Product399, Product816, Product807, Product632, Product499",21,0.8390095766731385
+Product369,45,"Product401, Product874, Product775, Product885, Product855, Product37, Product512, Product710",30,0.06571014624690352
+Product370,57,"Product618, Product776, Product807",31,0.7039369464104092
+Product371,11,"Product769, Product596, Product10, Product660, Product73, Product881, Product206, Product689",9,0.4255736362527738
+Product372,59,"Product66, Product603, Product802",20,0.49257099557058937
+Product373,12,"Product747, Product165",39,0.6474647430099818
+Product374,87,"Product780, Product255, Product826",29,0.7175671372543824
+Product375,64,"Product582, Product56, Product82, Product98",46,0.18119088445849074
+Product376,40,"Product967, Product620, Product930, Product154, Product1000, Product647, Product618",47,0.4745223938778921
+Product377,37,"Product335, Product661, Product654, Product855, Product281",48,0.41616577179124237
+Product378,36,"Product250, Product440, Product786, Product610",8,0.06827882009102615
+Product379,21,"Product752, Product436, Product293, Product573, Product513, Product499, Product786, Product95",21,0.6250867036256631
+Product380,5,"Product825, Product407, Product298, Product257",44,0.35804545005261956
+Product381,3,"Product338, Product4, Product183, Product916, Product414, Product490",3,0.8932480376320934
+Product382,20,"Product322, Product867, Product431, Product988, Product962, Product300, Product184, Product17",13,0.9226892771869217
+Product383,6,"Product995, Product848, Product684, Product887",2,0.33606116349659043
+Product384,2,"Product339, Product595, Product637, Product688, Product555, Product376, Product655, Product103, Product630",49,0.3105665507059946
+Product385,64,Product82,26,0.7378672779039128
+Product386,62,"Product355, Product423, Product324, Product180, Product879, Product149, Product619",32,0.9717072979215159
+Product387,72,"Product564, Product48, Product993, Product625, Product441, Product670",36,0.08339834163101478
+Product388,37,"Product30, Product100, Product507, Product840, Product345, Product636, Product806",5,0.6732692089494684
+Product389,48,"Product621, Product363, Product993, Product393, Product577, Product7",32,0.9089167276699768
+Product390,15,"Product322, Product90, Product868, Product18",9,0.9264033246172797
+Product391,16,Product994,29,0.8410029901686974
+Product392,77,Product277,49,0.9313671346069704
+Product393,62,"Product570, Product916, Product441, Product855, Product209, Product92, Product930",44,0.08424483810809202
+Product394,93,"Product601, Product951, Product421, Product629",48,0.9756150424707061
+Product395,20,"Product860, Product703, Product68, Product827",25,0.3482229398511225
+Product396,83,"Product577, Product600, Product630, Product468",45,0.5500454982365995
+Product397,67,"Product266, Product377",49,0.6296124758128506
+Product398,75,"Product647, Product690",5,0.36880367178745943
+Product399,87,"Product798, Product513, Product493, Product820, Product813, Product192, Product11, Product70",3,0.022165246360089208
+Product400,0,"Product550, Product369, Product482, Product909, Product618, Product527, Product611, Product890, Product925",15,0.8045873742661839
+Product401,0,"Product223, Product10, Product380, Product964, Product280",27,0.8105831582023505
+Product402,39,"Product119, Product698, Product730, Product230",47,0.5927794867814052
+Product403,89,"Product763, Product69, Product182, Product720, Product162, Product416",40,0.5565557915643491
+Product404,69,Product371,42,0.5085285319983218
+Product405,47,"Product301, Product617, Product320, Product33, Product334, Product444, Product597",4,0.4113500019433758
+Product406,31,"Product457, Product521, Product561",46,0.4088039514987106
+Product407,83,"Product821, Product258, Product55, Product525, Product808",44,0.7947527329704186
+Product408,85,"Product971, Product659, Product625, Product679, Product953, Product812, Product658, Product724",1,0.8228892953530312
+Product409,26,"Product998, Product359, Product555",12,0.4429319440467776
+Product410,62,"Product889, Product405, Product944, Product135, Product831, Product916, Product774, Product28",18,0.13421656528957027
+Product411,26,"Product2, Product841, Product111, Product316, Product498, Product78",36,0.77744819087084
+Product412,43,"Product696, Product555, Product301, Product627, Product61, Product503",15,0.13291197341263983
+Product413,58,Product509,6,0.7150561670518738
+Product414,86,"Product446, Product606, Product536, Product626, Product68, Product766, Product805, Product890, Product82",27,0.23817518946595617
+Product415,60,"Product62, Product674, Product537, Product205, Product474, Product737, Product982",37,0.9075244929190585
+Product416,59,"Product479, Product731, Product829, Product385, Product581, Product248, Product997, Product951, Product244",34,0.7379311448699553
+Product417,72,"Product602, Product929, Product774, Product365, Product444, Product763, Product475, Product119, Product282",37,0.6752100672805862
+Product418,87,"Product286, Product420, Product285, Product926, Product497",25,0.2856504477450148
+Product419,84,"Product202, Product860, Product979, Product928, Product711",15,0.4350611364336624
+Product420,45,"Product405, Product489, Product756, Product305",13,0.1543939855839811
+Product421,54,"Product1000, Product108, Product479, Product528",12,0.10989389018022666
+Product422,90,"Product208, Product235, Product686, Product349, Product72, Product310",45,0.011902878207381784
+Product423,63,"Product572, Product797, Product493, Product628, Product825, Product805, Product444, Product864",24,0.7394721615483711
+Product424,33,"Product198, Product680, Product79",8,0.13313941556899123
+Product425,25,"Product948, Product844, Product437, Product652, Product227",5,0.7077138790633528
+Product426,48,"Product582, Product56, Product82, Product98",12,0.021706163174560422
+Product427,79,"Product178, Product825, Product793",31,0.5005702242022556
+Product428,23,"Product338, Product538",22,0.3579752223253213
+Product429,67,"Product983, Product795",43,0.8717658239781981
+Product430,45,"Product940, Product331",50,0.8908359384758329
+Product431,82,"Product814, Product976, Product581",26,0.9254819027532236
+Product432,86,Product955,31,0.3109809226286895
+Product433,58,"Product909, Product187, Product764, Product849",45,0.48222637857706396
+Product434,25,"Product783, Product390, Product658, Product723, Product500, Product109, Product917, Product34",24,0.571628873486949
+Product435,13,"Product554, Product999, Product752",50,0.07425708654274021
+Product436,48,"Product355, Product423, Product324, Product180, Product879, Product149, Product619",38,0.26934121592942817
+Product437,65,"Product604, Product50, Product623, Product240, Product424, Product557, Product465, Product707, Product950",28,0.7050560813901546
+Product438,39,"Product62, Product674, Product537, Product205, Product474, Product737, Product982",13,0.9841696351322583
+Product439,76,"Product432, Product426",31,0.22779470054770945
+Product440,73,"Product754, Product367, Product849, Product539, Product819",1,0.4432610361877978
+Product441,42,"Product670, Product224, Product84, Product115, Product320, Product159",26,0.5233222905466712
+Product442,88,"Product578, Product931, Product233, Product800, Product306, Product468, Product341, Product58, Product207",16,0.41860734036315916
+Product443,69,"Product387, Product420, Product582, Product595",3,0.7861686625616257
+Product444,37,"Product762, Product716, Product312",10,0.6908825699320474
+Product445,61,"Product867, Product849, Product707, Product876, Product386",49,0.8004003340825018
+Product446,44,"Product992, Product529, Product12, Product115, Product53, Product20, Product851",15,0.8788869083702514
+Product447,20,"Product672, Product641, Product859, Product766, Product743, Product98",44,0.407897304779102
+Product448,94,"Product172, Product632, Product953, Product8, Product83, Product397, Product694",22,0.38728336270930186
+Product449,14,"Product467, Product79, Product342, Product945, Product123, Product892, Product555, Product17, Product655",38,0.8754920928794894
+Product450,38,"Product143, Product527, Product33, Product140, Product37, Product276",45,0.5916079366782012
+Product451,13,"Product890, Product623, Product64, Product159, Product133, Product876, Product89, Product850",49,0.36600582000698256
+Product452,80,"Product307, Product854, Product309, Product565, Product1, Product920, Product47",13,0.529948799015017
+Product453,75,"Product65, Product875, Product816, Product417, Product937, Product532, Product515",39,0.31343871738865114
+Product454,26,"Product871, Product550, Product444, Product572, Product690, Product903, Product791",28,0.4123608002227791
+Product455,18,"Product670, Product224, Product84, Product115, Product320, Product159",29,0.31401576041540546
+Product456,96,"Product645, Product150, Product567, Product257, Product461, Product696, Product778, Product183, Product892",46,0.07450877525008726
+Product457,46,"Product252, Product211, Product770, Product80",21,0.9053300816241301
+Product458,72,"Product648, Product400",47,0.1141818057574826
+Product459,98,"Product742, Product312, Product445, Product532, Product969, Product387, Product135, Product382",8,0.476003377473999
+Product460,33,"Product921, Product592, Product910, Product393, Product773, Product396",16,0.6132863322765755
+Product461,38,"Product403, Product929, Product515, Product209, Product888, Product374, Product342",2,0.16339193720726175
+Product462,35,Product913,19,0.10809224100922099
+Product463,17,"Product120, Product396",43,0.28804885623320564
+Product464,81,"Product773, Product786, Product973, Product436, Product523, Product628",24,0.31115601695760253
+Product465,40,Product106,2,0.6977157190694021
+Product466,31,"Product853, Product452, Product908, Product842",30,0.2669235713066439
+Product467,67,"Product198, Product680, Product79",26,0.6476980864053251
+Product468,86,"Product797, Product278, Product240, Product944, Product520, Product229, Product820, Product791",47,0.6662351196701302
+Product469,41,"Product256, Product378, Product683",24,0.34257756154453733
+Product470,85,"Product484, Product162, Product966, Product356, Product948, Product354, Product923, Product710",49,0.625257797196623
+Product471,44,"Product64, Product603, Product221",50,0.8617058807390716
+Product472,47,"Product675, Product363, Product125, Product346, Product786, Product764, Product404, Product569, Product521",10,0.39225632694481827
+Product473,61,"Product976, Product400, Product223, Product427, Product137, Product562",38,0.4832615265891108
+Product474,38,"Product434, Product172, Product223",30,0.36436663478064846
+Product475,81,"Product11, Product613, Product546, Product374, Product621, Product382, Product910, Product649",6,0.27133706757810205
+Product476,90,"Product887, Product643, Product690, Product324, Product597, Product937",44,0.13211421676796353
+Product477,87,"Product626, Product278, Product45, Product849, Product544, Product198, Product528, Product972",39,0.06004808360773095
+Product478,88,"Product869, Product702, Product65, Product903, Product863, Product908, Product99, Product165, Product558",8,0.2903636313460606
+Product479,21,"Product814, Product976, Product581",20,0.6540162268357037
+Product480,22,"Product96, Product226, Product472",23,0.6385146195872488
+Product481,83,"Product325, Product389, Product948, Product846, Product337",17,0.7971454402002449
+Product482,85,"Product269, Product576, Product103, Product745, Product26, Product495",26,0.3821062945619794
+Product483,33,"Product584, Product181, Product467",29,0.814665638751457
+Product484,48,"Product670, Product224, Product84, Product115, Product320, Product159",1,0.9400382487871536
+Product485,54,"Product401, Product874, Product775, Product885, Product855, Product37, Product512, Product710",36,0.26206830405237125
+Product486,25,"Product403, Product929, Product515, Product209, Product888, Product374, Product342",10,0.315455118519657
+Product487,82,"Product834, Product305, Product26, Product137, Product33",15,0.6614952216121763
+Product488,2,Product168,44,0.522778570965316
+Product489,21,"Product884, Product653, Product880, Product466, Product372, Product689, Product72, Product275",49,0.05146344068838349
+Product490,68,"Product144, Product88, Product768, Product513",28,0.0807624577219822
+Product491,46,"Product559, Product374, Product471",3,0.9701384510832165
+Product492,0,"Product995, Product848, Product684, Product887",28,0.20187779153195762
+Product493,74,Product166,2,0.35571870315806897
+Product494,36,"Product644, Product4, Product191, Product490, Product394",3,0.7666122989511905
+Product495,64,"Product969, Product183, Product26, Product790, Product277, Product434, Product155, Product861",41,0.23769101184315677
+Product496,78,"Product256, Product342, Product253, Product645, Product267, Product289, Product271",37,0.6337257144031755
+Product497,37,"Product664, Product57, Product882",2,0.8115506562546047
+Product498,45,"Product822, Product740, Product86, Product553, Product308, Product225, Product190",22,0.9795568639978981
+Product499,30,"Product349, Product895",15,0.7743507862252789
+Product500,66,"Product948, Product844, Product437, Product652, Product227",32,0.05334612035668451
+Product501,30,"Product246, Product869, Product947, Product735, Product184, Product554, Product608, Product978",40,0.42498616923914123
+Product502,64,Product309,39,0.21663205434195776
+Product503,17,"Product173, Product238, Product870",49,0.6406149629198421
+Product504,48,"Product241, Product468, Product147, Product767, Product120, Product366, Product745, Product713, Product417",15,0.6518566775331015
+Product505,72,"Product150, Product252, Product568, Product265, Product345, Product724, Product1000, Product428",37,0.9790014876029836
+Product506,81,"Product653, Product943, Product710, Product563",15,0.7668476330713716
+Product507,64,Product960,4,0.1042269606286167
+Product508,79,"Product762, Product716, Product312",50,0.48156466467365655
+Product509,85,"Product205, Product587, Product917, Product893, Product552, Product986, Product766, Product180",39,0.4433476135504755
+Product510,77,"Product238, Product766, Product501, Product550, Product94, Product601",33,0.035663994354016015
+Product511,79,"Product178, Product245, Product306, Product804, Product739, Product148",22,0.9122606008870484
+Product512,66,"Product381, Product251, Product656, Product928, Product309",6,0.7880497136690999
+Product513,74,"Product611, Product434, Product82, Product745, Product572, Product290, Product3, Product364, Product639",34,0.6495724870905555
+Product514,68,"Product856, Product162, Product288, Product58, Product255",31,0.7065516504221484
+Product515,20,"Product940, Product331",46,0.8318203557755427
+Product516,65,Product542,24,0.9651756788694421
+Product517,72,Product971,1,0.11137561184199285
+Product518,60,"Product942, Product754, Product46",21,0.5390380580790237
+Product519,97,"Product564, Product297, Product199",36,0.6483984482296615
+Product520,31,"Product378, Product517, Product937, Product160, Product270",14,0.4088782599558394
+Product521,96,"Product224, Product541, Product489, Product610, Product244, Product453, Product200, Product971",20,0.1154803720361115
+Product522,35,"Product809, Product425, Product714, Product298, Product1",37,0.47894606120217675
+Product523,63,"Product651, Product135, Product288, Product414",48,0.33607783236823663
+Product524,36,"Product611, Product434, Product82, Product745, Product572, Product290, Product3, Product364, Product639",33,0.07096946836834606
+Product525,32,"Product926, Product997, Product393, Product200",41,0.4518531412727097
+Product526,6,"Product897, Product750",10,0.027405780965659488
+Product527,14,"Product281, Product13, Product511, Product445, Product984",42,0.6066336057494809
+Product528,10,"Product256, Product223, Product77, Product726, Product607, Product974, Product122, Product383, Product640",9,0.828690046258465
+Product529,65,"Product303, Product651, Product419",47,0.20006386014942967
+Product530,68,"Product633, Product929, Product152, Product318, Product338",41,0.9678492897417902
+Product531,24,"Product8, Product193, Product141, Product206, Product363, Product144, Product665",34,0.1945390765954501
+Product532,73,"Product889, Product405, Product944, Product135, Product831, Product916, Product774, Product28",7,0.2985995148730206
+Product533,45,"Product243, Product68, Product738, Product234, Product973, Product329, Product337",40,0.045705811821862286
+Product534,66,"Product694, Product87, Product466, Product543, Product15",14,0.06181316630028166
+Product535,50,Product798,22,0.0779834037620466
+Product536,64,"Product66, Product603, Product802",26,0.8181846585106449
+Product537,38,"Product869, Product702, Product65, Product903, Product863, Product908, Product99, Product165, Product558",35,0.8073330714737645
+Product538,33,"Product746, Product608, Product753, Product213, Product140, Product611, Product686, Product362",39,0.75668685875746
+Product539,3,"Product797, Product278, Product240, Product944, Product520, Product229, Product820, Product791",27,0.41781904358237554
+Product540,47,"Product728, Product929, Product414, Product48, Product520",44,0.45096234319448314
+Product541,32,"Product307, Product787, Product469, Product433, Product216",15,0.8596239267022339
+Product542,37,Product353,13,0.4343003228430534
+Product543,63,"Product301, Product617, Product320, Product33, Product334, Product444, Product597",39,0.2798344272620338
+Product544,92,Product112,37,0.04210923246397957
+Product545,34,Product955,7,0.027390226724656408
+Product546,92,"Product11, Product16, Product310, Product361, Product75, Product49, Product698",2,0.5022838336833657
+Product547,93,"Product860, Product117, Product707, Product115, Product543",50,0.7862065425788967
+Product548,89,Product143,20,0.606414951105769
+Product549,46,Product407,44,0.0175537147632302
+Product550,11,"Product48, Product202, Product210, Product398, Product920, Product272",24,0.2769296509479885
+Product551,41,"Product607, Product386, Product862",17,0.8218940220692104
+Product552,95,"Product713, Product370",39,0.9626028469519777
+Product553,93,"Product364, Product816, Product401, Product29, Product692, Product303, Product673, Product611, Product927",4,0.8648784438854855
+Product554,4,"Product582, Product986",28,0.018961753034567597
+Product555,89,"Product704, Product234, Product918, Product370, Product979, Product232",28,0.6389465363672933
+Product556,88,Product197,7,0.848335568327623
+Product557,29,Product19,20,0.6644648241452794
+Product558,22,"Product746, Product608, Product753, Product213, Product140, Product611, Product686, Product362",6,0.47386625454738773
+Product559,38,"Product992, Product529, Product12, Product115, Product53, Product20, Product851",22,0.6713909409492058
+Product560,58,"Product292, Product720, Product31, Product874, Product896, Product887, Product663, Product866",35,0.26381906606016714
+Product561,30,"Product675, Product660, Product149, Product191, Product232, Product18, Product715, Product961",39,0.7680368849824192
+Product562,86,"Product553, Product516, Product510, Product741, Product341",36,0.16398755330056336
+Product563,97,"Product704, Product234, Product918, Product370, Product979, Product232",3,0.8678286230311258
+Product564,37,"Product610, Product144, Product722, Product33, Product107, Product299, Product778, Product48",36,0.6695295430446081
+Product565,84,"Product948, Product788, Product104, Product210",24,0.09542129201353955
+Product566,3,"Product8, Product193, Product141, Product206, Product363, Product144, Product665",23,0.9994048228584107
+Product567,59,"Product197, Product590, Product910, Product309, Product836",26,0.9665355336907593
+Product568,48,"Product541, Product284, Product950, Product556, Product882, Product28",33,0.4522096951656387
+Product569,79,"Product245, Product878, Product152, Product520, Product851, Product266",18,0.6693072162717317
+Product570,53,"Product73, Product16, Product437, Product449, Product464, Product510, Product959, Product281",21,0.7206386747790404
+Product571,31,"Product971, Product659, Product625, Product679, Product953, Product812, Product658, Product724",22,0.21137408704883087
+Product572,64,Product666,17,0.6896403006088381
+Product573,40,"Product200, Product85, Product97, Product607, Product568, Product188, Product56, Product222, Product463",12,0.19741771473235237
+Product574,6,Product970,21,0.19894586366047617
+Product575,75,"Product626, Product278, Product45, Product849, Product544, Product198, Product528, Product972",22,0.21326497633442898
+Product576,42,"Product102, Product238, Product175, Product637, Product234",44,0.6728436864976808
+Product577,44,Product112,13,0.5747241623453326
+Product578,74,"Product64, Product603, Product221",4,0.5202097156827867
+Product579,97,"Product291, Product873, Product811, Product520",44,0.16791427339592746
+Product580,0,"Product405, Product489, Product756, Product305",30,0.45319592292264244
+Product581,10,"Product458, Product449, Product465, Product624, Product856, Product133, Product847, Product632",3,0.4560956888046185
+Product582,63,"Product246, Product726, Product956, Product444",21,0.11168310186447128
+Product583,58,"Product752, Product436, Product293, Product573, Product513, Product499, Product786, Product95",15,0.1674470636283918
+Product584,8,"Product423, Product157, Product553, Product516, Product139, Product791, Product14, Product371",13,0.6567512244466982
+Product585,9,"Product679, Product400, Product624, Product289, Product596, Product778, Product681",31,0.4294915651927639
+Product586,0,"Product918, Product397, Product396, Product4, Product79, Product891",19,0.512755437875262
+Product587,35,"Product330, Product437, Product688, Product103, Product408, Product481",20,0.08960251336661651
+Product588,37,Product840,42,0.032219180691485105
+Product589,53,Product496,14,0.671077199129683
+Product590,85,Product734,13,0.36639924342010777
+Product591,90,Product807,14,0.6372594653687371
+Product592,99,"Product454, Product769",39,0.21865551992578947
+Product593,28,"Product256, Product223, Product77, Product726, Product607, Product974, Product122, Product383, Product640",48,0.33030832769335916
+Product594,30,"Product287, Product513",9,0.2902596877898822
+Product595,34,"Product309, Product435, Product396",3,0.05280378323491142
+Product596,9,"Product457, Product521, Product561",34,0.06392915088443463
+Product597,96,"Product644, Product903, Product490, Product716, Product63, Product142, Product898, Product902, Product700",23,0.029455736021104295
+Product598,24,"Product797, Product278, Product240, Product944, Product520, Product229, Product820, Product791",6,0.02223413995297896
+Product599,26,"Product96, Product226, Product472",30,0.28967636387647555
+Product600,81,Product82,34,0.8865028502577367
+Product601,41,"Product339, Product595, Product637, Product688, Product555, Product376, Product655, Product103, Product630",9,0.6130602313405831
+Product602,9,"Product99, Product302, Product186, Product64, Product409, Product746",50,0.6906970310616042
+Product603,42,"Product8, Product193, Product141, Product206, Product363, Product144, Product665",21,0.7214812311339912
+Product604,50,Product143,43,0.06739732319265701
+Product605,44,"Product522, Product481",32,0.9912887989415078
+Product606,84,"Product65, Product674, Product305, Product253",42,0.5579740447939673
+Product607,83,"Product913, Product556, Product49, Product848, Product277, Product955",10,0.8713336200448386
+Product608,49,"Product889, Product571, Product393, Product358, Product501, Product942",40,0.741864009245412
+Product609,19,"Product940, Product331",17,0.7051223048510658
+Product610,81,"Product688, Product745, Product211, Product933",48,0.667327001213543
+Product611,0,Product585,37,0.6933753004149431
+Product612,50,"Product50, Product622",11,0.651953146202738
+Product613,9,"Product202, Product860, Product979, Product928, Product711",34,0.2975600976820979
+Product614,17,"Product250, Product440, Product786, Product610",42,0.8514781949642989
+Product615,33,"Product740, Product532",22,0.7833740629974799
+Product616,42,"Product517, Product252, Product938, Product538, Product599, Product733",19,0.7621568829000416
+Product617,21,"Product813, Product970, Product564, Product624, Product797, Product188, Product94, Product786",7,0.39215477058775516
+Product618,66,"Product86, Product40, Product66, Product144, Product367, Product588, Product812, Product291",18,0.9144932380526569
+Product619,24,"Product909, Product164, Product729, Product946, Product780",22,0.0731038048636341
+Product620,37,"Product434, Product172, Product223",29,0.8726368403260572
+Product621,91,"Product610, Product120, Product455, Product397, Product829, Product929, Product35",33,0.6434349308989474
+Product622,18,"Product740, Product532",47,0.23141123121475993
+Product623,59,"Product582, Product986",22,0.9566243620705464
+Product624,60,"Product481, Product832, Product954, Product383, Product881, Product779, Product917",49,0.7296570488736054
+Product625,51,"Product839, Product945, Product919",30,0.3570365171066332
+Product626,98,"Product97, Product861, Product590, Product412, Product382, Product172",10,0.31158010137097825
+Product627,32,"Product160, Product1000, Product299, Product631, Product355",29,0.5709548953853412
+Product628,86,"Product610, Product120, Product455, Product397, Product829, Product929, Product35",18,0.8648741788596743
+Product629,84,"Product940, Product331",36,0.17534282867408713
+Product630,32,"Product189, Product416, Product692, Product150",19,0.0262916087768843
+Product631,97,Product970,45,0.6212837946962534
+Product632,66,"Product578, Product931, Product233, Product800, Product306, Product468, Product341, Product58, Product207",4,0.720456129028873
+Product633,14,"Product713, Product275, Product540, Product624, Product381, Product117, Product175, Product334",35,0.5345616345437129
+Product634,36,Product2,6,0.9518191995677234
+Product635,31,"Product464, Product327, Product708, Product565, Product294, Product558, Product77",9,0.38834006014942246
+Product636,80,"Product815, Product801, Product543",34,0.15486388280257934
+Product637,92,"Product250, Product440, Product786, Product610",44,0.05112644431378477
+Product638,70,"Product790, Product546",38,0.23140257823100363
+Product639,94,Product971,44,0.9395256820361304
+Product640,72,"Product728, Product929, Product414, Product48, Product520",33,0.1702231969627983
+Product641,28,"Product740, Product532",15,0.6284274503539641
+Product642,78,"Product999, Product484, Product870, Product387, Product847, Product181, Product887",13,0.6990488135491012
+Product643,28,"Product150, Product252, Product568, Product265, Product345, Product724, Product1000, Product428",33,0.8727025601688557
+Product644,18,"Product403, Product929, Product515, Product209, Product888, Product374, Product342",14,0.7486969957290904
+Product645,23,"Product605, Product134, Product731, Product44, Product929, Product488, Product195",31,0.6343656010815537
+Product646,42,"Product405, Product489, Product756, Product305",25,0.6932199549590333
+Product647,39,"Product640, Product540, Product139",28,0.5100796191212553
+Product648,86,"Product257, Product195, Product91, Product116",4,0.8721865098816779
+Product649,29,"Product43, Product936, Product653, Product375",13,0.9069429731123932
+Product650,22,"Product869, Product702, Product65, Product903, Product863, Product908, Product99, Product165, Product558",35,0.6135820181791608
+Product651,14,"Product463, Product300, Product226, Product371, Product219, Product427",7,0.6645726466839335
+Product652,57,Product372,7,0.017333359345215182
+Product653,72,"Product430, Product473, Product399, Product178",46,0.821479161244404
+Product654,27,"Product923, Product689, Product356, Product910, Product788, Product629",12,0.7118504041593612
+Product655,28,"Product918, Product397, Product396, Product4, Product79, Product891",48,0.04674457762888151
+Product656,28,"Product763, Product69, Product182, Product720, Product162, Product416",23,0.83997290517366
+Product657,14,"Product315, Product997, Product412, Product516",21,0.8178061082878041
+Product658,37,"Product286, Product420, Product285, Product926, Product497",12,0.35530635297379387
+Product659,44,"Product378, Product517, Product937, Product160, Product270",1,0.5175762416164883
+Product660,33,"Product202, Product691, Product572, Product820, Product554",48,0.056436072228112755
+Product661,87,"Product942, Product754, Product46",35,0.6498738920310719
+Product662,30,"Product430, Product473, Product399, Product178",39,0.33388396840882206
+Product663,24,"Product706, Product210, Product990, Product103, Product190, Product892, Product156, Product696, Product958",19,0.8831440202866184
+Product664,36,Product212,27,0.5908671730992155
+Product665,93,"Product613, Product721, Product94, Product350, Product771, Product518, Product221, Product911, Product825",11,0.7465853591792715
+Product666,68,"Product541, Product284, Product950, Product556, Product882, Product28",33,0.312140181316357
+Product667,80,Product721,48,0.12479493335724257
+Product668,20,"Product968, Product997, Product857, Product112",44,0.5640155986977219
+Product669,95,"Product554, Product999, Product752",32,0.8359106803199453
+Product670,2,"Product246, Product869, Product947, Product735, Product184, Product554, Product608, Product978",29,0.22590609696079167
+Product671,33,"Product751, Product360, Product705, Product869, Product31, Product846, Product341, Product784",38,0.03522503224920559
+Product672,72,"Product181, Product625, Product430, Product115, Product545, Product773, Product163, Product973",14,0.2675539592512083
+Product673,76,"Product578, Product577, Product913, Product518, Product640",3,0.4283898862501798
+Product674,57,"Product675, Product660, Product149, Product191, Product232, Product18, Product715, Product961",46,0.6482934186036691
+Product675,51,"Product173, Product238, Product870",42,0.5769294051883511
+Product676,41,"Product971, Product659, Product625, Product679, Product953, Product812, Product658, Product724",14,0.06795828417661876
+Product677,69,"Product141, Product801, Product28, Product308, Product830, Product691",45,0.04307762532369941
+Product678,58,"Product183, Product238, Product274",23,0.2853627056617082
+Product679,51,"Product503, Product532, Product383, Product609, Product409",5,0.5452638823694672
+Product680,37,"Product405, Product489, Product756, Product305",19,0.4052928453317436
+Product681,18,"Product798, Product513, Product493, Product820, Product813, Product192, Product11, Product70",5,0.07493127908002983
+Product682,60,Product49,45,0.9552235857361074
+Product683,89,Product277,4,0.3127078061630042
+Product684,45,"Product330, Product652, Product862, Product610",29,0.4842384352821675
+Product685,46,"Product292, Product720, Product31, Product874, Product896, Product887, Product663, Product866",3,0.5373611888797722
+Product686,1,"Product351, Product448, Product677, Product855, Product141, Product164, Product508, Product727, Product603",24,0.48400590695712353
+Product687,0,"Product355, Product423, Product324, Product180, Product879, Product149, Product619",12,0.390000710954844
+Product688,8,"Product195, Product935, Product934, Product159, Product268, Product96",36,0.7284200088272257
+Product689,18,"Product99, Product61, Product355, Product841, Product931, Product368, Product270, Product362",7,0.9736326236466311
+Product690,25,"Product875, Product581, Product551, Product383",35,0.4210046610501147
+Product691,53,"Product491, Product969, Product569",25,0.4517615094688058
+Product692,35,"Product944, Product474",1,0.10383352841150029
+Product693,54,"Product887, Product643, Product690, Product324, Product597, Product937",12,0.1660413010033489
+Product694,68,"Product176, Product534, Product531",13,0.7403771115153971
+Product695,12,Product353,33,0.09432462730801716
+Product696,87,"Product564, Product48, Product993, Product625, Product441, Product670",26,0.6499006557679885
+Product697,29,"Product860, Product703, Product68, Product827",5,0.4061105904305202
+Product698,87,"Product281, Product396, Product532",28,0.8392045934015265
+Product699,93,"Product181, Product625, Product430, Product115, Product545, Product773, Product163, Product973",45,0.6079344796237642
+Product700,40,"Product769, Product596, Product10, Product660, Product73, Product881, Product206, Product689",47,0.5829005405250289
+Product701,14,Product666,6,0.7732072781112124
+Product702,69,"Product197, Product590, Product910, Product309, Product836",33,0.24027180394763115
+Product703,60,"Product197, Product697, Product931, Product420, Product599, Product46",36,0.7529727243808908
+Product704,62,"Product609, Product671",16,0.14153860126815
+Product705,44,Product912,50,0.8789546393590908
+Product706,50,Product443,23,0.3086898786966876
+Product707,86,"Product600, Product545, Product388",8,0.3913867016486925
+Product708,13,"Product420, Product907, Product816, Product436, Product346, Product930",37,0.6676926136610221
+Product709,24,"Product246, Product869, Product947, Product735, Product184, Product554, Product608, Product978",11,0.7547628700592811
+Product710,50,"Product173, Product238, Product870",17,0.44561778786408757
+Product711,96,"Product202, Product691, Product572, Product820, Product554",3,0.9702729114735764
+Product712,78,"Product221, Product711, Product847, Product293, Product188, Product880, Product103, Product871",50,0.4202416459073245
+Product713,51,"Product303, Product651, Product419",41,0.9399583413975118
+Product714,37,Product971,2,0.00018217763931471787
+Product715,90,"Product309, Product240, Product726, Product544, Product933, Product246",43,0.0038569034079065645
+Product716,50,"Product992, Product529, Product12, Product115, Product53, Product20, Product851",19,0.6530042376154687
+Product717,95,"Product936, Product240, Product981",41,0.6612497754277291
+Product718,1,"Product969, Product183, Product26, Product790, Product277, Product434, Product155, Product861",40,0.8541373198003885
+Product719,44,"Product713, Product370",32,0.6929940936543583
+Product720,63,"Product769, Product972, Product749, Product439, Product764",18,0.10455012327254876
+Product721,61,"Product821, Product258, Product55, Product525, Product808",50,0.20900085089363873
+Product722,60,Product86,7,0.6935945436499682
+Product723,32,"Product481, Product832, Product954, Product383, Product881, Product779, Product917",24,0.8545246734334638
+Product724,25,"Product580, Product550, Product138, Product717, Product108",21,0.4834852737976666
+Product725,37,"Product254, Product346, Product23, Product397, Product476, Product384, Product299, Product424, Product517",34,0.1122257981738225
+Product726,81,"Product198, Product680, Product79",32,0.9389986625580805
+Product727,33,"Product286, Product420, Product285, Product926, Product497",42,0.08333941927599198
+Product728,86,Product606,33,0.9224854092908015
+Product729,21,"Product99, Product302, Product186, Product64, Product409, Product746",48,0.420201378934857
+Product730,29,"Product948, Product844, Product437, Product652, Product227",34,0.5620622775022658
+Product731,99,"Product692, Product795, Product606",31,0.13692826362729804
+Product732,34,"Product387, Product949, Product717, Product879, Product882, Product719, Product463",28,0.021000737595384233
+Product733,22,"Product197, Product697, Product931, Product420, Product599, Product46",38,0.8067539583509677
+Product734,94,"Product406, Product556, Product448, Product203, Product560, Product466, Product3, Product59",29,0.5273704542853033
+Product735,62,Product723,42,0.6944100841620544
+Product736,39,"Product853, Product452, Product908, Product842",42,0.537248854096028
+Product737,41,"Product432, Product426",47,0.9072552841489663
+Product738,61,Product49,25,0.7757590107390719
+Product739,36,"Product99, Product302, Product186, Product64, Product409, Product746",11,0.7361656195864831
+Product740,81,"Product822, Product740, Product86, Product553, Product308, Product225, Product190",14,0.8107100186872273
+Product741,86,Product626,45,0.620063351821248
+Product742,4,"Product256, Product223, Product77, Product726, Product607, Product974, Product122, Product383, Product640",43,0.09537915309573464
+Product743,84,"Product112, Product443, Product932, Product396",6,0.9213630240269282
+Product744,59,"Product648, Product400",22,0.9624126357627121
+Product745,20,"Product403, Product929, Product515, Product209, Product888, Product374, Product342",31,0.29436299244544806
+Product746,92,"Product582, Product986",31,0.6719779519068014
+Product747,23,"Product503, Product532, Product383, Product609, Product409",40,0.38007398807161175
+Product748,61,"Product525, Product537, Product511, Product922, Product375, Product627, Product991, Product916, Product305",6,0.9243471249760286
+Product749,99,"Product256, Product223, Product77, Product726, Product607, Product974, Product122, Product383, Product640",28,0.6904314051108028
+Product750,54,"Product876, Product698, Product291, Product588, Product201, Product654, Product130",7,0.6634349588204959
+Product751,79,Product723,37,0.6535592237475852
+Product752,25,"Product969, Product183, Product26, Product790, Product277, Product434, Product155, Product861",48,0.23786808914814495
+Product753,37,"Product62, Product674, Product537, Product205, Product474, Product737, Product982",20,0.34500459819411644
+Product754,95,"Product769, Product972, Product749, Product439, Product764",4,0.16462342017846576
+Product755,71,"Product809, Product425, Product714, Product298, Product1",35,0.051348559708222496
+Product756,75,"Product249, Product979, Product708, Product186, Product342",34,0.14078861341375948
+Product757,50,"Product754, Product612, Product929, Product26",3,0.9114591343397448
+Product758,39,"Product584, Product181, Product467",15,0.92820407252048
+Product759,23,"Product567, Product879, Product272, Product474, Product380",40,0.9658267520342566
+Product760,39,Product960,7,0.7461535523741296
+Product761,96,"Product790, Product546",47,0.6338393741020819
+Product762,60,"Product643, Product938, Product891",18,0.5151911137415564
+Product763,44,"Product65, Product674, Product305, Product253",50,0.3830655202715214
+Product764,15,"Product780, Product255, Product826",17,0.8602428465127141
+Product765,33,"Product351, Product601, Product580, Product92, Product500, Product587",45,0.46070096758056145
+Product766,74,"Product352, Product414",13,0.16611132957759267
+Product767,25,Product139,44,0.7078566971683674
+Product768,92,"Product823, Product259, Product56",41,0.44125263681315696
+Product769,0,"Product509, Product406, Product737, Product663, Product569, Product866, Product458, Product120, Product5",19,0.3094991265022987
+Product770,58,Product178,16,0.6665828764000362
+Product771,71,"Product114, Product470, Product197, Product589, Product156, Product901, Product192",9,0.11851695579756849
+Product772,19,"Product645, Product551",46,0.9216080944873379
+Product773,34,"Product588, Product107",41,0.10292446152103074
+Product774,14,"Product178, Product245, Product306, Product804, Product739, Product148",12,0.9976442209882238
+Product775,55,Product138,39,0.5651548625903168
+Product776,98,"Product11, Product613, Product546, Product374, Product621, Product382, Product910, Product649",7,0.6491047976853161
+Product777,89,"Product281, Product396, Product532",23,0.2213332097862578
+Product778,86,"Product387, Product949, Product717, Product879, Product882, Product719, Product463",11,0.8236265650579851
+Product779,68,"Product176, Product534, Product531",20,0.9921485655483371
+Product780,95,"Product688, Product745, Product211, Product933",43,0.39801905643847046
+Product781,73,"Product671, Product651, Product461, Product649, Product305",9,0.8855538251893252
+Product782,2,"Product726, Product445, Product790, Product316",49,0.9851707142633226
+Product783,37,"Product525, Product537, Product511, Product922, Product375, Product627, Product991, Product916, Product305",39,0.16709020339547764
+Product784,86,"Product378, Product556, Product335, Product397, Product501, Product271, Product966, Product909",43,0.47856198662024485
+Product785,91,"Product921, Product592, Product910, Product393, Product773, Product396",13,0.25163961510927046
+Product786,44,Product143,24,0.29074681523748647
+Product787,42,"Product969, Product183, Product26, Product790, Product277, Product434, Product155, Product861",24,0.4511729198764679
+Product788,44,"Product648, Product400",47,0.8223950870392653
+Product789,42,"Product856, Product504",43,0.5840552167471265
+Product790,17,"Product376, Product737, Product198",28,0.5592784344569277
+Product791,48,Product2,4,0.5877969981265593
+Product792,98,"Product243, Product68, Product738, Product234, Product973, Product329, Product337",16,0.038992585057901485
+Product793,72,Product75,19,0.8952694256122565
+Product794,7,"Product498, Product471, Product559",7,0.16814404921867987
+Product795,45,"Product250, Product440, Product786, Product610",11,0.7835151197106679
+Product796,24,"Product513, Product192, Product42",19,0.9690642924596278
+Product797,91,"Product159, Product227, Product727, Product809, Product973, Product609, Product40",46,0.509015121462745
+Product798,55,Product106,27,0.6587013147948855
+Product799,18,"Product615, Product271, Product385",13,0.1973365845309889
+Product800,36,"Product998, Product359, Product555",18,0.842270646844952
+Product801,12,"Product818, Product770, Product937, Product956, Product49, Product900, Product575, Product22, Product309",40,0.31413155499490486
+Product802,29,"Product66, Product603, Product802",46,0.13100968637269195
+Product803,3,"Product805, Product494, Product242, Product758, Product438, Product522",47,0.20855403195931788
+Product804,85,"Product281, Product13, Product511, Product445, Product984",1,0.9017205494295465
+Product805,40,"Product869, Product702, Product65, Product903, Product863, Product908, Product99, Product165, Product558",43,0.6308810650665466
+Product806,30,"Product513, Product666",11,0.3804974704611511
+Product807,5,"Product139, Product17",39,0.9881804605044895
+Product808,64,"Product645, Product551",35,0.03977880329957151
+Product809,45,"Product120, Product509",32,0.4028605893781019
+Product810,10,"Product912, Product249, Product878, Product585, Product515, Product770, Product863, Product20, Product689",23,0.5414280808000101
+Product811,26,Product585,13,0.7517255798676146
+Product812,87,"Product763, Product69, Product182, Product720, Product162, Product416",47,0.64456001935094
+Product813,92,"Product178, Product825, Product793",12,0.26847770845824215
+Product814,40,"Product484, Product162, Product966, Product356, Product948, Product354, Product923, Product710",3,0.14974369693970502
+Product815,89,"Product198, Product680, Product79",4,0.48662044895357015
+Product816,46,Product542,3,0.6316343162911079
+Product817,93,"Product479, Product731, Product829, Product385, Product581, Product248, Product997, Product951, Product244",26,0.9836487844016343
+Product818,52,"Product610, Product144, Product722, Product33, Product107, Product299, Product778, Product48",18,0.7766235770843133
+Product819,4,"Product266, Product377",24,0.5446394224110747
+Product820,22,Product734,48,0.25186923601717115
+Product821,62,"Product746, Product608, Product753, Product213, Product140, Product611, Product686, Product362",23,0.8020740498045987
+Product822,69,"Product541, Product284, Product950, Product556, Product882, Product28",19,0.09888285811172581
+Product823,19,"Product763, Product69, Product182, Product720, Product162, Product416",18,0.19537570822706274
+Product824,83,"Product976, Product400, Product223, Product427, Product137, Product562",45,0.9199024502033873
+Product825,72,Product353,12,0.4428724255449714
+Product826,46,"Product178, Product245, Product306, Product804, Product739, Product148",37,0.8595833494310695
+Product827,57,"Product867, Product653, Product558, Product862, Product874",10,0.5142915714001881
+Product828,80,"Product631, Product581, Product59, Product985, Product833, Product555, Product515",34,0.7538867945930887
+Product829,3,"Product301, Product617, Product320, Product33, Product334, Product444, Product597",22,0.3600215533436911
+Product830,27,"Product387, Product420, Product582, Product595",10,0.44407548720501633
+Product831,66,"Product303, Product651, Product419",20,0.7703866474645742
+Product832,55,"Product553, Product516, Product510, Product741, Product341",45,0.9784780519678318
+Product833,77,"Product675, Product660, Product149, Product191, Product232, Product18, Product715, Product961",10,0.7201589926507405
+Product834,79,"Product604, Product50, Product623, Product240, Product424, Product557, Product465, Product707, Product950",44,0.3816830118790874
+Product835,37,"Product786, Product928, Product986",33,0.8388175280313277
+Product836,12,"Product16, Product478, Product645, Product12, Product405, Product483, Product38, Product640, Product907",42,0.7465970903191272
+Product837,72,"Product964, Product213, Product327, Product458, Product837, Product379, Product391, Product267, Product607",50,0.2682508943916966
+Product838,77,Product75,38,0.6039528204113908
+Product839,36,"Product602, Product929, Product774, Product365, Product444, Product763, Product475, Product119, Product282",45,0.9493698517422527
+Product840,65,"Product266, Product377",19,0.7840417111446815
+Product841,92,"Product481, Product832, Product954, Product383, Product881, Product779, Product917",22,0.027300184750046808
+Product842,55,"Product178, Product825, Product793",41,0.7614993973159904
+Product843,25,"Product578, Product931, Product233, Product800, Product306, Product468, Product341, Product58, Product207",23,0.5724422917667956
+Product844,10,Product166,8,0.2932518974462327
+Product845,52,"Product178, Product913, Product54, Product451, Product252, Product289, Product573",5,0.9549780736484316
+Product846,75,"Product924, Product892, Product361, Product666, Product49, Product435, Product295, Product84",34,0.96799024908953
+Product847,89,"Product281, Product13, Product511, Product445, Product984",14,0.5344313388698438
+Product848,87,"Product740, Product488, Product62, Product23, Product438, Product928, Product782, Product903",16,0.7025114454998252
+Product849,40,"Product633, Product929, Product152, Product318, Product338",42,0.219113456272088
+Product850,22,"Product564, Product48, Product993, Product625, Product441, Product670",20,0.7397724789513823
+Product851,19,Product49,22,0.6723836191521323
+Product852,74,"Product822, Product740, Product86, Product553, Product308, Product225, Product190",2,0.4065332179787703
+Product853,32,Product254,31,0.44024807876509664
+Product854,44,"Product776, Product586, Product52, Product361, Product816, Product520, Product946, Product886, Product2",20,0.6765904491828048
+Product855,14,"Product189, Product416, Product692, Product150",19,0.3864605714453051
+Product856,98,"Product550, Product369, Product482, Product909, Product618, Product527, Product611, Product890, Product925",6,0.6750470087944408
+Product857,29,"Product577, Product773, Product907, Product533",31,0.8489063827834489
+Product858,0,"Product679, Product400, Product624, Product289, Product596, Product778, Product681",21,0.6752333941543491
+Product859,62,"Product272, Product774, Product740, Product293, Product918, Product438, Product828",11,0.46000378867956393
+Product860,7,"Product82, Product450, Product303, Product862, Product576, Product504, Product942, Product193",15,0.5974757001012919
+Product861,54,Product407,13,0.8122546529741482
+Product862,92,"Product998, Product359, Product555",10,0.7689351508829121
+Product863,82,"Product202, Product691, Product572, Product820, Product554",14,0.19042959219696276
+Product864,46,"Product200, Product85, Product97, Product607, Product568, Product188, Product56, Product222, Product463",32,0.5500290339717129
+Product865,40,"Product889, Product405, Product944, Product135, Product831, Product916, Product774, Product28",5,0.5903228807119809
+Product866,9,Product589,24,0.7631596003169367
+Product867,27,"Product976, Product400, Product223, Product427, Product137, Product562",38,0.14762741411916502
+Product868,49,"Product624, Product928",42,0.643101396722575
+Product869,63,"Product754, Product367, Product849, Product539, Product819",31,0.3893274721423394
+Product870,4,"Product120, Product396",22,0.06342600817780442
+Product871,68,"Product315, Product997, Product412, Product516",40,0.9586094881470595
+Product872,65,"Product909, Product187, Product764, Product849",43,0.4847304640030451
+Product873,58,"Product659, Product700, Product205, Product481, Product748, Product767, Product307, Product171, Product68",9,0.9794619986159482
+Product874,28,"Product73, Product16, Product437, Product449, Product464, Product510, Product959, Product281",11,0.49361864681688816
+Product875,66,"Product611, Product434, Product82, Product745, Product572, Product290, Product3, Product364, Product639",3,0.9333376921379108
+Product876,52,"Product464, Product327, Product708, Product565, Product294, Product558, Product77",30,0.8602948315949543
+Product877,79,"Product656, Product143, Product240, Product575, Product416, Product408, Product421, Product818",35,0.686091774768353
+Product878,54,Product994,15,0.9912287765927414
+Product879,75,"Product742, Product312, Product445, Product532, Product969, Product387, Product135, Product382",18,0.8554422271306638
+Product880,96,"Product825, Product407, Product298, Product257",33,0.9414226962468654
+Product881,17,"Product865, Product9",27,0.9809514280448424
+Product882,50,Product19,14,0.6682298645342022
+Product883,37,"Product604, Product50, Product623, Product240, Product424, Product557, Product465, Product707, Product950",1,0.8791884900460745
+Product884,22,"Product578, Product931, Product233, Product800, Product306, Product468, Product341, Product58, Product207",37,0.5874301175119374
+Product885,5,"Product309, Product240, Product726, Product544, Product933, Product246",48,0.8498649748290533
+Product886,36,"Product601, Product951, Product421, Product629",44,0.6386772553802605
+Product887,77,"Product178, Product528",48,0.18268512078860166
+Product888,76,"Product238, Product766, Product501, Product550, Product94, Product601",46,0.25393391492364925
+Product889,5,"Product179, Product32, Product44, Product95, Product756, Product722, Product831",34,0.7239899074860517
+Product890,16,"Product976, Product400, Product223, Product427, Product137, Product562",27,0.8444252272010155
+Product891,66,"Product894, Product847, Product256, Product698, Product757",32,0.46004196246228424
+Product892,8,"Product93, Product222",30,0.5009688584996089
+Product893,89,"Product340, Product320",9,0.9177717869422201
+Product894,84,"Product241, Product468, Product147, Product767, Product120, Product366, Product745, Product713, Product417",5,0.4570734395512325
+Product895,32,"Product48, Product202, Product210, Product398, Product920, Product272",18,0.4273494401671649
+Product896,96,"Product160, Product802, Product839, Product889, Product859, Product260",41,0.6307127117332358
+Product897,87,"Product11, Product16, Product310, Product361, Product75, Product49, Product698",21,0.7412911650253589
+Product898,91,"Product292, Product720, Product31, Product874, Product896, Product887, Product663, Product866",6,0.8892684918406283
+Product899,96,"Product204, Product682, Product837, Product580, Product598, Product44, Product71, Product912, Product287",26,0.8020614326045777
+Product900,61,"Product672, Product641, Product859, Product766, Product743, Product98",1,0.9159204646911868
+Product901,90,"Product425, Product508",7,0.6353889575959498
+Product902,69,"Product884, Product346, Product651, Product376",36,0.934546528595857
+Product903,12,"Product181, Product625, Product430, Product115, Product545, Product773, Product163, Product973",38,0.7293144348364415
+Product904,48,"Product204, Product387, Product218, Product207, Product321",40,0.7455081671124423
+Product905,82,"Product986, Product797, Product513, Product696",19,0.7426695759272517
+Product906,33,"Product818, Product770, Product937, Product956, Product49, Product900, Product575, Product22, Product309",26,0.6462483687657034
+Product907,98,"Product911, Product160, Product7, Product942, Product856, Product627",22,0.4016410083877199
+Product908,79,"Product866, Product692, Product199, Product296, Product236, Product4",44,0.8478205592615194
+Product909,13,"Product802, Product106, Product860, Product789, Product951",46,0.9254091252998239
+Product910,75,"Product842, Product718, Product169, Product840, Product309, Product590",10,0.2568133315441945
+Product911,41,"Product150, Product252, Product568, Product265, Product345, Product724, Product1000, Product428",47,0.6250055302574417
+Product912,48,"Product975, Product825",46,0.058117113946134946
+Product913,92,"Product496, Product517, Product55, Product227",40,0.2487384100784692
+Product914,63,"Product912, Product249, Product878, Product585, Product515, Product770, Product863, Product20, Product689",32,0.21030590367577595
+Product915,73,"Product245, Product878, Product152, Product520, Product851, Product266",43,0.28494182982976546
+Product916,61,Product168,6,0.1415933987694693
+Product917,5,"Product417, Product971, Product877, Product306, Product534, Product669, Product298",39,0.6459122955455264
+Product918,36,"Product798, Product513, Product493, Product820, Product813, Product192, Product11, Product70",34,0.022797644177226184
+Product919,81,"Product839, Product163, Product867, Product30, Product499, Product148",12,0.9429111178855691
+Product920,28,"Product509, Product406, Product737, Product663, Product569, Product866, Product458, Product120, Product5",31,0.614081500558525
+Product921,42,"Product352, Product967, Product619, Product935, Product284",23,0.5412313329830577
+Product922,83,"Product90, Product97, Product747, Product146, Product907, Product565, Product417, Product697",32,0.5612396515543632
+Product923,8,"Product643, Product945",18,0.37940123637820344
+Product924,58,"Product670, Product224, Product84, Product115, Product320, Product159",36,0.028923711574653788
+Product925,47,"Product160, Product802, Product839, Product889, Product859, Product260",16,0.21317332644780262
+Product926,79,"Product509, Product406, Product737, Product663, Product569, Product866, Product458, Product120, Product5",26,0.6006505071951361
+Product927,27,"Product640, Product540, Product139",14,0.8156412471930474
+Product928,55,"Product643, Product304, Product206, Product573, Product314, Product54",26,0.6630088853482851
+Product929,82,"Product183, Product186, Product769",7,0.2519382207239864
+Product930,10,"Product944, Product513, Product405, Product5, Product251, Product670, Product808, Product900",40,0.7444553632026338
+Product931,25,"Product551, Product22, Product573, Product423, Product771, Product645",6,0.9934750116004643
+Product932,81,"Product834, Product305, Product26, Product137, Product33",34,0.17076180058280788
+Product933,26,"Product810, Product538, Product707",7,0.699450685225028
+Product934,11,"Product330, Product437, Product688, Product103, Product408, Product481",34,0.9132595484288794
+Product935,70,"Product875, Product581, Product551, Product383",29,0.5636018876997072
+Product936,2,"Product250, Product440, Product786, Product610",22,0.5057888420669213
+Product937,18,Product309,24,0.7153414247419375
+Product938,72,"Product713, Product275, Product540, Product624, Product381, Product117, Product175, Product334",15,0.9813640365799047
+Product939,66,Product197,8,0.5681162941716785
+Product940,87,"Product204, Product682, Product837, Product580, Product598, Product44, Product71, Product912, Product287",7,0.47983840002798195
+Product941,1,"Product601, Product951, Product421, Product629",22,0.1382246312482429
+Product942,15,"Product480, Product872, Product633, Product718, Product235, Product959",33,0.47950059514883037
+Product943,82,"Product572, Product797, Product493, Product628, Product825, Product805, Product444, Product864",6,0.6324996454547923
+Product944,94,"Product93, Product222",20,0.5127389496947711
+Product945,53,"Product871, Product550, Product444, Product572, Product690, Product903, Product791",40,0.09247443256974885
+Product946,2,"Product204, Product682, Product837, Product580, Product598, Product44, Product71, Product912, Product287",36,0.272593012329
+Product947,68,"Product580, Product550, Product138, Product717, Product108",23,0.7985247792143013
+Product948,53,Product970,48,0.544520256525538
+Product949,61,"Product330, Product437, Product688, Product103, Product408, Product481",5,0.3551616979898157
+Product950,36,"Product251, Product944, Product206, Product692, Product198, Product156, Product479",7,0.6896188944315297
+Product951,19,"Product903, Product597, Product670, Product785, Product186, Product927, Product803, Product253",37,0.695135127420263
+Product952,55,"Product387, Product420, Product582, Product595",24,0.8411708205170502
+Product953,19,"Product572, Product797, Product493, Product628, Product825, Product805, Product444, Product864",15,0.5380872457441991
+Product954,88,"Product405, Product489, Product756, Product305",46,0.7038564646128802
+Product955,24,"Product748, Product567, Product685",49,0.5891119097333197
+Product956,35,"Product452, Product142, Product611, Product497, Product501, Product983, Product24",27,0.6838917673775983
+Product957,77,"Product896, Product687, Product11, Product150",4,0.7850525009103869
+Product958,47,"Product352, Product414",2,0.5312291507971872
+Product959,53,"Product183, Product186, Product769",29,0.3898877179723348
+Product960,30,Product955,44,0.9620486491424752
+Product961,65,"Product541, Product284, Product950, Product556, Product882, Product28",29,0.5684260029949688
+Product962,81,"Product834, Product305, Product26, Product137, Product33",5,0.7788012291585719
+Product963,31,"Product246, Product726, Product956, Product444",14,0.38221701163621036
+Product964,3,"Product109, Product194, Product835, Product337, Product204",17,0.9878060819735167
+Product965,64,"Product713, Product370",35,0.8501429121215975
+Product966,40,Product178,37,0.5083399798910639
+Product967,75,"Product454, Product769",49,0.9720625991797724
+Product968,86,"Product403, Product929, Product515, Product209, Product888, Product374, Product342",40,0.8164004709114411
+Product969,22,"Product307, Product854, Product309, Product565, Product1, Product920, Product47",34,0.657791999882542
+Product970,20,"Product99, Product302, Product186, Product64, Product409, Product746",30,0.19409638040113952
+Product971,9,"Product647, Product690",22,0.017715647515842536
+Product972,22,"Product250, Product440, Product786, Product610",20,0.001424081067888494
+Product973,56,"Product496, Product517, Product55, Product227",40,0.9542104119201915
+Product974,6,"Product889, Product802, Product962, Product852, Product59, Product441, Product534",17,0.8091238488066901
+Product975,35,"Product884, Product653, Product880, Product466, Product372, Product689, Product72, Product275",1,0.17591194946831057
+Product976,67,Product322,12,0.8435706825835914
+Product977,99,"Product4, Product877, Product164, Product646",38,0.02661892568739599
+Product978,0,Product2,26,0.6157812049278898
+Product979,48,"Product869, Product702, Product65, Product903, Product863, Product908, Product99, Product165, Product558",7,0.09374156180349535
+Product980,42,"Product144, Product88, Product768, Product513",23,0.8130123265787428
+Product981,38,"Product183, Product238, Product274",47,0.16476656428673275
+Product982,64,Product266,48,0.6470152822919426
+Product983,78,"Product523, Product319, Product423, Product515, Product326, Product995, Product137",40,0.3752229416126105
+Product984,6,"Product282, Product396, Product198, Product750, Product3, Product757, Product967",28,0.15412143063361117
+Product985,24,"Product2, Product290, Product810, Product431, Product77, Product401, Product954, Product936",4,0.44332964565515653
+Product986,52,"Product325, Product389, Product948, Product846, Product337",6,0.530905482966938
+Product987,76,Product606,35,0.3633520790373237
+Product988,81,"Product890, Product623, Product64, Product159, Product133, Product876, Product89, Product850",20,0.08292901941403463
+Product989,41,"Product865, Product9",28,0.38355573682836464
+Product990,89,"Product451, Product11, Product964, Product204, Product801",26,0.17171163209117712
+Product991,53,"Product561, Product380, Product740, Product598",27,0.2697085868477974
+Product992,74,"Product932, Product324, Product91, Product955, Product971, Product5, Product864, Product403, Product87",29,0.9825837912764153
+Product993,22,"Product480, Product872, Product633, Product718, Product235, Product959",24,0.060861488284508436
+Product994,17,"Product248, Product822, Product419, Product495, Product925, Product642, Product176, Product479, Product214",50,0.9635736260792475
+Product995,29,"Product541, Product284, Product950, Product556, Product882, Product28",21,0.8032083063731488
+Product996,90,"Product256, Product223, Product77, Product726, Product607, Product974, Product122, Product383, Product640",28,0.5329234783956871
+Product997,61,"Product890, Product623, Product64, Product159, Product133, Product876, Product89, Product850",36,0.7569043116890734
+Product998,79,"Product523, Product319, Product423, Product515, Product326, Product995, Product137",38,0.9717427298843958
+Product999,53,Product353,33,0.42474944691662986
+Product1000,87,"Product675, Product363, Product125, Product346, Product786, Product764, Product404, Product569, Product521",40,0.24027446726615842
